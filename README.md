@@ -5,3 +5,11 @@ References:
 - https://cdimage.debian.org/mirror/alpinelinux.org/v3.21/releases/x86_64/
 
 - https://github.com/stunnel/static-curl
+
+- https://github.com/borestad/static-binaries
+
+- https://github.com/yunchih/static-binaries
+
+```
+wget https://github.com/kholia/files/raw/refs/heads/master/strace
+```
